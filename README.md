@@ -11,5 +11,5 @@ $ docker build -t marvel_intro https://raw.githubusercontent.com/codeimpossible/
 
 Then
 ```
-$ docker run -rm -it marvel_intro
+$ docker run --rm -it marvel_intro
 ```
