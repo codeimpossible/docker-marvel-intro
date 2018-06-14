@@ -13,3 +13,10 @@ Then
 ```
 $ docker run --rm -it marvel_intro
 ```
+
+
+# I'm too damn lazy, just gimme one command
+
+Ok...
+
+```docker run --rm -it codeimpossible/marvel_intro:latest```
