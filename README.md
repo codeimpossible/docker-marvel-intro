@@ -6,7 +6,7 @@ Ever felt like you need to see the marvel studios title sequence from a marvel m
 You're in luck!
 
 ```
-$ curl https://raw.githubusercontent.com/codeimpossible/docker-marvel-intro/master/Dockerfile | docker build -t marvel_intro -f .
+$ docker build -t marvel_intro https://raw.githubusercontent.com/codeimpossible/docker-marvel-intro/master/Dockerfile
 ```
 
 Then
